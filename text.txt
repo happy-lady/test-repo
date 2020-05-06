@@ -3,3 +3,5 @@ git commit -m "1st commit"
 
 // dont do this yet
 git push origin master
+
+php -S localhost:8000
